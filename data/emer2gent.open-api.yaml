@@ -1,0 +1,51 @@
+---
+# this document follows the OpenAPI (formerly Swagger) format 
+# See the docs for more: https://swagger.io/docs/specification/basic-structure/
+openapi: 3.0.0
+
+# metadata about the documentation
+info:
+  title: EMER2GENT Project
+  # Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.
+  description: |
+    Contains the draft schema for [EMER2GENT](https://github.com/rolls-royce/EMER2GENT) and associated components in the data model.
+    
+    The main focus at this time is defining the schema of various components. The API definition is not complete.
+  version: 0.0.1
+# servers:
+#   - url: http://api.example.com/v1
+#     description: Optional server description, e.g. Main (production) server
+#   - url: http://staging-api.example.com
+#     description: Optional server description, e.g. Internal staging server for testing
+
+########################################################################
+## Components
+components:
+  schemas:
+    # The type of aircraft, often used in dimension tables of a star schema
+    AircraftType:
+      properties:
+        id:
+          type: integer
+        name:
+          type: string
+      # Both properties are required
+      required:  
+        - id
+        - name
+
+########################################################################
+## API Paths
+paths:
+  /aircraft/type:
+    get:
+      summary: Returns a list of aircraft-type objects.
+      description: Returns a complete list of aircraft types.
+      responses:
+        '200': # HTTP status code
+          description: A JSON array of aircraft types
+          content:
+            application/json:
+              schema:
+                # this is a link to the AircraftType schema
+                $ref: '#/components/schemas/AicraftType'
