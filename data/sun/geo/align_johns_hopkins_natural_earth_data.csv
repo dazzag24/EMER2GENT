@@ -1,0 +1,179 @@
+"Country/Region","ADMIN","ADM0_A3","MANUAL"
+"Afghanistan","Afghanistan","AFG",0
+"Albania","Albania","ALB",0
+"Algeria","Algeria","DZA",0
+"Andorra","","",-1
+"Angola","Angola","AGO",0
+"Antigua and Barbuda","","",-1
+"Argentina","Argentina","ARG",0
+"Armenia","Armenia","ARM",0
+"Australia","Australia","AUS",0
+"Austria","Austria","AUT",0
+"Azerbaijan","Azerbaijan","AZE",0
+"Bahamas","The Bahamas","BHS",1
+"Bahrain","","",-1
+"Bangladesh","Bangladesh","BGD",0
+"Barbados","","",-1
+"Belarus","Belarus","BLR",0
+"Belgium","Belgium","BEL",0
+"Belize","Belize","BLZ",0
+"Benin","Benin","BEN",0
+"Bhutan","Bhutan","BTN",0
+"Bolivia","Bolivia","BOL",0
+"Bosnia and Herzegovina","Bosnia and Herzegovina","BIH",0
+"Brazil","Brazil","BRA",0
+"Brunei","Brunei","BRN",0
+"Bulgaria","Bulgaria","BGR",0
+"Burkina Faso","Burkina Faso","BFA",0
+"Burma","Myanmar","MMR",0
+"Cabo Verde","","",-1
+"Cambodia","Cambodia","KHM",0
+"Cameroon","Cameroon","CMR",0
+"Canada","Canada","CAN",0
+"Central African Republic","Central African Republic","CAF",0
+"Chad","Chad","TCD",0
+"Chile","Chile","CHL",0
+"China","China","CHN",1
+"Colombia","Colombia","COL",1
+"Congo (Brazzaville)","Democratic Republic of the Congo","COD",0
+"Congo (Kinshasa)","Republic of the Congo","COG",1
+"Costa Rica","Costa Rica","CRI",0
+"Cote d'Ivoire","Ivory Coast","CIV",0
+"Croatia","Croatia","HRV",0
+"Cuba","Cuba","CUB",0
+"Cyprus","Cyprus","CYP",0
+"Czechia","Czechia","CZE",0
+"Denmark","Denmark","DNK",0
+"Diamond Princess","","",-1
+"Djibouti","Djibouti","DJI",0
+"Dominica","","",-1
+"Dominican Republic","Dominican Republic","DOM",0
+"Ecuador","Ecuador","ECU",0
+"Egypt","Egypt","EGY",0
+"El Salvador","El Salvador","SLV",0
+"Equatorial Guinea","Equatorial Guinea","GNQ",0
+"Eritrea","Eritrea","ERI",0
+"Estonia","Estonia","EST",0
+"Eswatini","eSwatini","SWZ",0
+"Ethiopia","Ethiopia","ETH",0
+"Fiji","Fiji","FJI",0
+"Finland","Finland","FIN",0
+"France","France","FRA",0
+"Gabon","Gabon","GAB",0
+"Gambia","Gambia","GMB",0
+"Georgia","Georgia","GEO",0
+"Germany","Germany","DEU",0
+"Ghana","Ghana","GHA",0
+"Greece","Greece","GRC",0
+"Grenada","","",-1
+"Guatemala","Guatemala","GTM",0
+"Guinea","Guinea","GIN",0
+"Guinea-Bissau","Guinea-Bissau","GNB",0
+"Guyana","Guyana","GUY",0
+"Haiti","Haiti","HTI",0
+"Holy See","","",-1
+"Honduras","Honduras","HND",0
+"Hungary","Hungary","HUN",0
+"Iceland","Iceland","ISL",0
+"India","India","IND",0
+"Indonesia","Indonesia","IDN",0
+"Iran","Iran","IRN",0
+"Iraq","Iraq","IRQ",0
+"Ireland","Ireland","IRL",0
+"Israel","Israel","ISR",0
+"Italy","Italy","ITA",0
+"Jamaica","Jamaica","JAM",1
+"Japan","Japan","JPN",0
+"Jordan","Jordan","JOR",0
+"Kazakhstan","Kazakhstan","KAZ",0
+"Kenya","Kenya","KEN",0
+""Korea South"","South Korea","KOR",0
+"Kosovo","Kosovo","KOS",0
+"Kuwait","Kuwait","KWT",0
+"Kyrgyzstan","Kyrgyzstan","KGZ",0
+"Laos","Laos","LAO",0
+"Latvia","Latvia","LVA",0
+"Lebanon","Lebanon","LBN",0
+"Liberia","Liberia","LBR",0
+"Libya","Libya","LBY",0
+"Liechtenstein","","",-1
+"Lithuania","Lithuania","LTU",0
+"Luxembourg","Luxembourg","LUX",0
+"Madagascar","Madagascar","MDG",0
+"Malaysia","Malaysia","MYS",0
+"Maldives","","",-1
+"Mali","Mali","MLI",0
+"Malta","","",-1
+"Mauritania","Mauritania","MRT",0
+"Mauritius","","",-1
+"Mexico","Mexico","MEX",0
+"Moldova","Moldova","MDA",0
+"Monaco","","",-1
+"Mongolia","Mongolia","MNG",0
+"Montenegro","Montenegro","MNE",1
+"Morocco","Morocco","MAR",0
+"Mozambique","Mozambique","MOZ",0
+"MS Zaandam","","",-1
+"Namibia","Namibia","NAM",0
+"Nepal","Nepal","NPL",0
+"Netherlands","Netherlands","NLD",0
+"New Zealand","New Zealand","NZL",0
+"Nicaragua","Nicaragua","NIC",0
+"Niger","Niger","NER",0
+"Nigeria","Nigeria","NGA",0
+"North Macedonia","Macedonia","MKD",0
+"Norway","Norway","NOR",0
+"Oman","Oman","OMN",0
+"Pakistan","Pakistan","PAK",0
+"Panama","Panama","PAN",0
+"Papua New Guinea","Papua New Guinea","PNG",0
+"Paraguay","Paraguay","PRY",0
+"Peru","Peru","PER",0
+"Philippines","Philippines","PHL",0
+"Poland","Poland","POL",1
+"Portugal","Portugal","PRT",0
+"Qatar","Qatar","QAT",0
+"Romania","Romania","ROU",0
+"Russia","Russia","RUS",0
+"Rwanda","Rwanda","RWA",0
+"Saint Kitts and Nevis","","",-1
+"Saint Lucia","","",-1
+"Saint Vincent and the Grenadines","","",-1
+"San Marino","","",-1
+"Saudi Arabia","Saudi Arabia","SAU",0
+"Senegal","Senegal","SEN",0
+"Serbia","Republic of Serbia","SRB",0
+"Seychelles","","",-1
+"Singapore","","",-1
+"Slovakia","Slovakia","SVK",0
+"Slovenia","Slovenia","SVN",0
+"Somalia","Somalia","SOM",0
+"South Africa","South Africa","ZAF",0
+"Spain","Spain","ESP",0
+"Sri Lanka","Sri Lanka","LKA",0
+"Sudan","Sudan","SDN",0
+"Suriname","Suriname","SUR",0
+"Sweden","Sweden","SWE",0
+"Switzerland","Switzerland","CHE",0
+"Syria","Syria","SYR",1
+"Taiwan*","Taiwan","TWN",0
+"Tanzania","United Republic of Tanzania","TZA",0
+"Thailand","Thailand","THA",0
+"Timor-Leste","","",-1
+"Togo","Togo","TGO",0
+"Trinidad and Tobago","Trinidad and Tobago","TTO",0
+"Tunisia","Tunisia","TUN",0
+"Turkey","Turkey","TUR",0
+"Uganda","Uganda","UGA",0
+"Ukraine","Ukraine","UKR",0
+"United Arab Emirates","United Arab Emirates","ARE",0
+"United Kingdom","United Kingdom","GBR",0
+"Uruguay","Uruguay","URY",0
+"US","United States of America","USA",0
+"Uzbekistan","Uzbekistan","UZB",0
+"Venezuela","Venezuela","VEN",0
+"Vietnam","Vietnam","VNM",0
+"West Bank and Gaza","Palestine","PSX",0
+"Zambia","Zambia","ZMB",0
+"Zimbabwe","Zimbabwe","ZWE",0
+"
