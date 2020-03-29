@@ -10,6 +10,14 @@ This repository contains a list of data sources actively used by EMER2GENT, and 
 
 * Oxford COVID-19 Government Response Tracker, https://www.bsg.ox.ac.uk/research/research-projects/oxford-covid-19-government-response-tracker
 
+* Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales, https://www.naturalearthdata.com/downloads/
+
+## Proposed and under Review
+
+These sources are on our list of candidates
+
 * Pandemic Forecasts, https://pandemicforecasts.org/blog
 
-## Proposed
+* World Bank Open Data, https://data.worldbank.org/
+
+* Open Data Insitute Leeds, https://odileeds.org/
