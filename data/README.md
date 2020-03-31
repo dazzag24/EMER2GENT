@@ -21,3 +21,6 @@ These sources are on our list of candidates
 * World Bank Open Data, https://data.worldbank.org/
 
 * Open Data Insitute Leeds, https://odileeds.org/
+
+* Wolfram Resources For Novel Coronavirus COVID-19 https://www.wolframcloud.com/obj/examples/COVID19Resources
+
