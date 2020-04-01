@@ -1,6 +1,6 @@
-# EMER2GENT list of data sources
+# EMER²GENT list of data sources
 
-This repository contains a list of data sources actively used by EMER2GENT, and a second list for candidates
+This repository contains a list of data sources actively used by EMER²GENT, and a second list for candidates
 
 ## Actively used
 
@@ -24,3 +24,6 @@ These sources are on our list of candidates
 
 * Wolfram Resources For Novel Coronavirus COVID-19 https://www.wolframcloud.com/obj/examples/COVID19Resources
 
+## Useful Resources
+
+* Open collaboration on COVID-19 https://github.blog/2020-03-23-open-collaboration-on-covid-19/
