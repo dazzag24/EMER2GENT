@@ -1,0 +1,22 @@
+digraph {
+
+
+S1_School_closing -> Delta7;
+S3_Cancel_public_events -> Delta7;
+S4_Close_public_transport -> Delta7;
+S6_Restrictions_on_internal_movement -> Delta7;
+S5_Public_information_campaigns -> Delta7;
+S9_Monetary_measures -> Delta7;
+S7_International_travel_controls -> Delta7;
+
+
+
+
+StringencyIndex -> S6_Restrictions_on_internal_movement;
+StringencyIndex -> S7_International_travel_controls;
+StringencyIndex -> S4_Close_public_transport;
+StringencyIndex -> S1_School_closing;
+StringencyIndex -> S3_Cancel_public_events;
+
+
+}
