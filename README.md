@@ -7,3 +7,7 @@ As a response to the situation, R² Data Labs (R²DL) are building an alliance t
 * This repository contains code made available to the public as part of the Emer²Gent project.
 * In addition, we will provide links to other, well curated datasets
 
+## Additional Required Datasets
+
+* See <https://github.com/rolls-royce/EMER2GENT/tree/master/data> for details of additional datasets required.
+
